@@ -6,8 +6,6 @@
 |----------------|
 | Mohammad Sadegh Gholizadeh	   |
 | Amir Arsalan Rezapour |
-| Ali Ghadiri	   |
-| Amin Jamshidi	   |
 
 
 
