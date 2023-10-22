@@ -1,4 +1,4 @@
-# Eye Disease Recognition - AIMedic
+# Detecting Eye Ailments
 
 ## Contributers
 
